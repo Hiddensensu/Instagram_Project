@@ -70,4 +70,4 @@ With additional data, future iterations could include:
 - Scikit-learn
 
 ## Key Takeaway
-Posts that generate **meaningful engagement signals** — especially saves and shares — are more likely to receive algorithmic distribution via Explore, even when controlling for total impressions.
+Posts that generate meaningful engagement signals especially saves and shares are more likely to receive algorithmic distribution via Explore, even when controlling for total impressions.
